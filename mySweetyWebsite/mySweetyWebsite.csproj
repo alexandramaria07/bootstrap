@@ -94,14 +94,26 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="books.html" />
+    <Content Include="imagess\a.jpg" />
+    <Content Include="imagess\aws.jpg" />
+    <Content Include="imagess\b.jpg" />
     <Content Include="imagess\bdy.jpg" />
+    <Content Include="imagess\c.jpg" />
     <Content Include="imagess\ch.jpg" />
+    <Content Include="imagess\d.jpg" />
     <Content Include="imagess\fd.jpg" />
     <Content Include="imagess\food.jpg" />
+    <Content Include="imagess\healthy-mind-healthy-foods.jpg" />
+    <Content Include="imagess\jessica-beniquez.jpg" />
+    <Content Include="imagess\jovanafit.jpg" />
+    <Content Include="imagess\straw.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="what.html" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -116,6 +128,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="styles.css" />
+    <Content Include="successstories.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
